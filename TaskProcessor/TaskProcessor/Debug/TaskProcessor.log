@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Brian\source\repos\TaskProcessor\TaskProcessor\Main.cpp(39,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Brian\source\repos\TaskProcessor\TaskProcessor\Main.cpp(142,29): warning C4018: '<': signed/unsigned mismatch
+  TaskProcessor.vcxproj -> C:\Users\Brian\source\repos\TaskProcessor\Debug\TaskProcessor.exe
