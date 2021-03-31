@@ -2,3 +2,4 @@
 
 1. Command line driving simulator
 2. Bubblesort example
+3. Frequency Counter
